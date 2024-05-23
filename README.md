@@ -13,4 +13,4 @@ How to Use:
 2. **Run the app:** Navigate to the directory containing the app script (e.g., `check_digit_generator.py`) and run the program.
 3. **Enter barcode:** Input a barcode number that needs a check digit (if testing the program, input a barcode number omitting the check digit).
 4. **Requesting sequence:** If multiple barcodes are desired, check the 'Generate in sequence' box and enter a valid amount. (Barcodes will then be generated incrementally from the 'seed' barcode)
-5. **Generating barcodes:** Click the 'Calculate' button. If a sequence was requested, the barcodes will be saved to a text file in the same directory as `check_digit_generator.py` . If only one barcode was requested, it will be copied to the clipboard.
+5. **Generating barcodes:** Click the 'Calculate' button. If a sequence was requested, the barcodes will be saved to a text file in the same directory as `check_digit_generator.py`. If only one barcode was requested, it will be copied to the clipboard.
